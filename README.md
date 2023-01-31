@@ -14,7 +14,7 @@ If you are interested in learning more about, or getting involved with, Ban the 
 
 ### Original Data Sources:
 
-- [Ban the Scan Data Set](https://banthescan.amnesty.org/decode/) Scroll down until you see three yellow buttons.
+- [Ban the Scan Data Set](https://banthescan.amnesty.org/decode/)
 - [Ban the Scan GitHub](https://github.com/amnesty-crisis-evidence-lab/decode-surveillance-nyc/)
 
 - [NYC Open Data: Borough Boundries](https://data.cityofnewyork.us/City-Government/Borough-Boundaries/tqmj-j8zm)
