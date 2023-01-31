@@ -4,7 +4,7 @@
 ### The Basics
 btsDash is a project I volunteered to work on for the New York City Task Force of Ban the Scan, an anti-surveillance initiative under the umbrella of Amnesty International.
 
-A question was raised by one of my fellow Ban the Scan volunteers, on the topic of surveillance camera distribution... Is there a connection between the density of surveillance cameras and the amount of crime? While begining to answer that question through data collected by Ban the Scan* as well as datasets from NYC Open Data*, the team discussed the value in having a visual representation of such questions to aid lobbying efforts, and so this project began.
+A question was raised by one of my fellow Ban the Scan volunteers, on the topic of surveillance camera distribution... Is there a connection between the density of surveillance cameras and the amount of crime? While begining to answer that question through data collected by Ban the Scan as well as datasets from NYC Open Data, the team discussed the value in having a visual representation of such questions to aid lobbying efforts, and so this project began.
 
 If you are interested in learning more about, or getting involved with, Ban the Scan, Amnesty International, or their partners, you should check out these links!
 
